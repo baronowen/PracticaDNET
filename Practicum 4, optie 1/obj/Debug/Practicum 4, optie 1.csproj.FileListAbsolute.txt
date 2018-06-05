@@ -1,0 +1,7 @@
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum 4, optie 1\bin\Debug\Practicum 4, optie 1.exe.config
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum 4, optie 1\bin\Debug\Practicum 4, optie 1.exe
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum 4, optie 1\bin\Debug\Practicum 4, optie 1.pdb
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum 4, optie 1\obj\Debug\Practicum 4, optie 1.csproj.CoreCompileInputs.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum 4, optie 1\obj\Debug\Practicum 4, optie 1.exe
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum 4, optie 1\obj\Debug\Practicum 4, optie 1.pdb
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum 4, optie 1\obj\Debug\Practicum 4, optie 1.csprojResolveAssemblyReference.cache

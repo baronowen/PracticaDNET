@@ -1,0 +1,13 @@
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\bin\Debug\Practicum1.exe.config
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\bin\Debug\Practicum1.exe
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\bin\Debug\Practicum1.pdb
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\obj\Debug\Practicum1.csprojResolveAssemblyReference.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\obj\Debug\Practicum1.Form1.resources
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\obj\Debug\Practicum1.Properties.Resources.resources
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\obj\Debug\Practicum1.csproj.GenerateResource.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\obj\Debug\Practicum1.csproj.CoreCompileInputs.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\obj\Debug\Practicum1.exe
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\obj\Debug\Practicum1.pdb
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\bin\Debug\TicTacToeEngine.dll
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\bin\Debug\TicTacToeEngine.pdb
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\Practicum1\obj\Debug\Practicum1.csproj.CopyComplete

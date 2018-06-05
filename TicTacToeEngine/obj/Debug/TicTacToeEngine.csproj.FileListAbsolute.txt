@@ -1,0 +1,6 @@
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\TicTacToeEngine\obj\Debug\TicTacToeEngine.csprojResolveAssemblyReference.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\TicTacToeEngine\obj\Debug\TicTacToeEngine.csproj.CoreCompileInputs.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\TicTacToeEngine\bin\Debug\TicTacToeEngine.dll
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\TicTacToeEngine\bin\Debug\TicTacToeEngine.pdb
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\TicTacToeEngine\obj\Debug\TicTacToeEngine.dll
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practica\Practica\TicTacToeEngine\obj\Debug\TicTacToeEngine.pdb

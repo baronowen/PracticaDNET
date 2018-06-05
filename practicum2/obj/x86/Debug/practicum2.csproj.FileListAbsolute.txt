@@ -1,0 +1,25 @@
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\bin\Debug\practicum2.exe
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\bin\Debug\practicum2.pdb
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\obj\x86\Debug\practicum2.Form1.resources
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\obj\x86\Debug\practicum2.Properties.Resources.resources
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\obj\x86\Debug\practicum2.exe
+D:\Dropbox\2011-2012-3-4\2011-2012-4\DotNet\code\week2\nieuwpracticumweek2\practicum2\practicum2\obj\x86\Debug\practicum2.pdb
+C:\Users\Bart v. Eijkelenburg\Downloads\practicum2_leeg\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.exe
+C:\Users\Bart v. Eijkelenburg\Downloads\practicum2_leeg\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.pdb
+C:\Users\Bart v. Eijkelenburg\Downloads\practicum2_leeg\practicum2_leeg\practicum2\bin\Debug\practicum2.exe
+C:\Users\Bart v. Eijkelenburg\Downloads\practicum2_leeg\practicum2_leeg\practicum2\bin\Debug\practicum2.pdb
+C:\Users\Bart v. Eijkelenburg\Downloads\practicum2_leeg\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.Form1.resources
+C:\Users\Bart v. Eijkelenburg\Downloads\practicum2_leeg\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.Properties.Resources.resources
+C:\Users\Bart v. Eijkelenburg\Downloads\practicum2_leeg\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.csproj.GenerateResource.Cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\bin\Debug\practicum2.exe
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\bin\Debug\practicum2.pdb
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.csprojResolveAssemblyReference.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.Form1.resources
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.Properties.Resources.resources
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.csproj.GenerateResource.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.csproj.CoreCompileInputs.cache
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.exe
+C:\Users\owena\stack\jaar 2\periode 4\DNET\practicum2_leeg\practicum2\obj\x86\Debug\practicum2.pdb
